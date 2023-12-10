@@ -3,7 +3,8 @@
 Mod affichant un viseur rouge à l'aide des fonctions issues de l'API Windows dans une fenêtre cible d'un jeu. Pratique pour des armes n'offrant pas de viseurs directement (l'AWP/SSG sur csgo par exemple). 
 
 Utilisation : 
-Récupérer le nom de la fenêtre du jeu (e.g Sans titre - Bloc-notes pour le notepad Windows) ou bien le nom de classe et mettre cette chaîne de caractère dans la variable de type # char* gameWindowsName = ""; 
+Récupérer le nom de la fenêtre du jeu (e.g Sans titre - Bloc-notes pour le notepad Windows) ou bien le nom de classe et mettre cette chaîne de caractère dans la variable : 
+# char* gameWindowsName = ""; 
 
 Exemple 1 : 
 
