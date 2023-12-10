@@ -6,6 +6,9 @@ Utilisation :
 Récupérer le nom de la fenêtre du jeu (e.g Sans titre - Bloc-notes pour le notepad Windows) ou bien le nom de classe et mettre cette chaîne de caractère dans la variable : 
 # char* gameWindowsName = ""; 
 
+Appuyer sur [W] pour activer. 
+
+
 Exemple 1 : 
 
 ![1](https://github.com/ulyssepmt/AimscopeMod/assets/89702597/9ab1c361-720f-4013-9cb9-7b54d4b9b1c0)
