@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ulyss\source\repos\AimscopeMod\AimscopeMod\main.c(25,7): warning C4101: 'rect' : variable locale non référencée
+  AimscopeMod.vcxproj -> C:\Users\ulyss\source\repos\AimscopeMod\x64\Debug\AimscopeMod.exe
